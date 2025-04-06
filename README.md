@@ -21,7 +21,9 @@ CSS3
 
 Screenshot
 
-![Screenshot](https://i.imgur.com/P7lhSzx.png)
+![Screenshot](https://i.imgur.com/Ed4fzTU.png)
+![Screenshot](https://i.imgur.com/WI4e8qJ.png)
+
 
 Getting Started
 To view the project:
@@ -33,4 +35,4 @@ bash
 2.Open index.html in your browser.
 
 Author
-GitHub: @your-username
+GitHub: @Gowri0806
