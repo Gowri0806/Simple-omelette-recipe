@@ -1,0 +1,180 @@
+*{
+  padding:0%;
+  margin:0%;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:350;
+  font-style: normal;
+  /* min-width: 375px; */
+  /* max-width:1440px; */
+}
+.one-fluid{
+width: 100%;
+height: auto;
+}
+.young-serif-regular {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding:10px 20px;
+  
+}
+.para{
+  padding-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  line-height:1.5em;
+}
+
+.table1 li::marker {
+  color:hsl(332, 51%, 32%); /* Change to any color */
+  font-size: 0.7em; /* Optional: Adjust size */
+  /* margin-right:90px; */
+  
+}
+#six{
+  color:hsl(332, 51%, 32%);
+  text-align: left;
+  padding-left:20px;
+  margin:10px;
+  
+}
+.two{
+  border: 1px solid white;
+  text-align: center;
+  line-height: 2em;
+  background-color: hsla(332, 51%, 32%,0.1);
+  margin:auto 10%;
+  border-radius: 15px;
+  width: 70%;
+  
+}
+.two li{
+margin-left:31px;
+text-align:left;
+padding:2px; 
+}
+.three{
+font-family: "Outfit", sans-serif;
+font-optical-sizing: auto;
+font-weight:bold;
+font-style: normal;
+}
+.five{
+list-style: decimal;
+margin: 10px;
+}
+.table1{
+  margin-bottom: 25px;
+  padding-left:20px;
+  list-style-position: outside;
+}
+.ingredients{
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding:20px;
+  margin-left:5%;
+  color:hsl(14,45%,36%);
+}
+.items li::marker{
+  color:hsl(14,45%,36%);
+  font-size:0.7em;
+  list-style-position:unset;
+}
+.items li{
+  margin-left:15%;
+  padding:1%;
+}
+.table2{
+  margin-bottom:20px;
+}
+.listitem4{
+  line-height:25px;
+}
+hr{
+  /* height:4px; */
+  width:80%;
+  border-radius: 5px;
+  margin:auto;
+}
+.instructions{
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding:20px;
+  margin-left:5%;
+  color:hsl(14,45%,36%);
+}
+.infolist li{
+  margin-left:40px;
+  margin-bottom:5px;
+  line-height:25px;
+  
+}
+.infolist li::marker{
+  color:hsl(14,45%,36%);
+  font-size:0.7em;
+  list-style-position:inside;
+  font-weight:bold;
+}
+.info{
+  margin-bottom:20px;
+  padding-right:50px;
+  padding-left:25px;
+}
+.Nutrition{
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding:20px;
+  margin-left:6%;
+  color:hsl(14,45%,36%);
+}
+.para2{
+  margin-left:50px;
+  margin-bottom:20px;
+}
+.table-container {
+width: 80%;
+margin: 0 auto; /* center align */
+/* padding-bottom:20%; */
+}
+
+.nutrition {
+width: 100%;
+border-collapse: collapse;
+}
+
+.nutrition td {
+padding: 12px;
+border-bottom: 1px solid rgb(110, 103, 103);
+text-align: left;
+}
+
+.nutrition td:last-child {
+font-weight: bolder;
+color: hsl(14, 45%, 36%);
+/* text-align: right; */
+/* padding-right:20%; */
+
+}
+.nutrition{
+width:100%;
+border-collapse: collapse;
+margin-top:10px;
+}
+.nutrition td {
+padding:12px;
+padding-left:50px;
+border-bottom:1px solid rgb(110, 103, 103);
+
+}
+.nutrition td:last-child{
+font-weight: bolder;
+color:hsl(14,45%,36%);
+}
+.nutrition tr:last-child{
+padding-bottom: 60px;
+margin-bottom: 50px;
+}
