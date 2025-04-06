@@ -35,4 +35,5 @@ bash
 2.Open index.html in your browser.
 
 Author
-GitHub: @Gowri0806
+GitHub: @Gowri0806 and @Nithyadharshini2805
+
